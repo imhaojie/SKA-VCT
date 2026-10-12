@@ -70,7 +70,7 @@ Quantitative results, ablations, and qualitative comparisons are reported in the
 ## Installation
 
 ```bash
-git clone https://github.com/Jackey0903/SKA-VCT.git
+git clone https://github.com/imhaojie/SKA-VCT.git
 cd SKA-VCT
 
 conda create -n keva python=3.8 -y
